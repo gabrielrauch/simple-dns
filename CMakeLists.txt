@@ -11,6 +11,7 @@ set(SOURCES
 
 set(HEADERS
     include/dns_server.h
+    include/dns_constants.h
     )
 
 
