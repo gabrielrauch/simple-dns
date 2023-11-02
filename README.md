@@ -22,7 +22,7 @@ Siga estas etapas para compilar o servidor:
       ./build.sh
     ```
     
-O executável será gerado no diretório raiz.
+O executável será gerado no diretório build.
 
 ## Uso
 
