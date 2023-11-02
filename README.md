@@ -13,11 +13,16 @@ Certifique-se de ter as seguintes dependências instaladas:
 
 Siga estas etapas para compilar o servidor:
 
-1. Crie um diretório de compilação: `mkdir build && cd build`
-2. Configure o projeto com o CMake: `cmake ..`
-3. Compile o projeto: `make`
-
-O executável será gerado no diretório `build`.
+1. Dê permissao para o arquivo build.sh executar com o comando
+   ```bash
+     chmod +x build.sh
+   ```
+2. Execute o arquivo build.sh com o comando
+    ```bash
+      ./build.sh
+    ```
+    
+O executável será gerado no diretório raiz.
 
 ## Uso
 
